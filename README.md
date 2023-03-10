@@ -1,6 +1,6 @@
 # ONLINE EDUCATION
 
-In this project, I created a small educational site using html css and javascript.
+In this project, I created a small educational full responsive web site using html css and javascript.
 
 ![home](https://github.com/murat7001/online_education/blob/master/image/1.jpg)
 
